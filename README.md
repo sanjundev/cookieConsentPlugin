@@ -16,7 +16,7 @@ Note: you must have jquery support to your project.
 
     (function ( $ ) {
 
-        $( "a" ).icCookieConsent({
+        $( "body" ).icCookieConsent({
             color: "#556b2f",
             cookieContent: "We use cookies in this website to give you the best experience on oursite and show you relevant ads. To find out more, read our",
             backgroundColor: "white",
